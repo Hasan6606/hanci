@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.Form1.resources
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.Properties.Resources.resources
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\bin\Debug\WindowsFormsMisafirarayüzü.exe.config
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\bin\Debug\WindowsFormsMisafirarayüzü.exe
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\bin\Debug\WindowsFormsMisafirarayüzü.pdb
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.exe
+C:\Users\Asus\source\repos\WindowsFormsMisafirarayüzü\WindowsFormsMisafirarayüzü\obj\Debug\WindowsFormsMisafirarayüzü.pdb

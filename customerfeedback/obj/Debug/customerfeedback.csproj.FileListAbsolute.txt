@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\bin\Debug\customerfeedback.exe.config
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\bin\Debug\customerfeedback.exe
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\bin\Debug\customerfeedback.pdb
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.Form1.resources
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.Properties.Resources.resources
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.exe
+C:\Users\Asus\source\repos\customerfeedback\customerfeedback\obj\Debug\customerfeedback.pdb
